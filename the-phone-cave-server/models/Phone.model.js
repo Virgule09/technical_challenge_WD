@@ -30,7 +30,7 @@ const phoneSchema = new Schema(
     processor: {
       type: String,
     },
-    imageFileName: {
+    ram: {
       type: Number,
     },
   },

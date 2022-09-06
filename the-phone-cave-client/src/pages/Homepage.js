@@ -1,3 +1,5 @@
+import { NavLink } from "react-router-dom";
+
 function Homepage(props) {
 
     return (
@@ -6,7 +8,7 @@ function Homepage(props) {
             <h2>Discover our list of phones</h2>
             {props.phones?.map((phone) => {
                 return (
-                    <h3>Model : {phone.name}</h3>
+                        <h3>Model : {phone.name}</h3>
                 )
             })
             }

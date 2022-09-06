@@ -7,7 +7,7 @@ router.get("/", (req, res, next) => {
 
 router.get('/phones', (req, res, next) => {
   Phone.find()
-    .then()
+    .then(Phones => res.json(Phones))
     .catch(err => res.json(err))
 });
 

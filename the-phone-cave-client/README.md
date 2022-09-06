@@ -1,10 +1,8 @@
-------------
-DISCLAIMER
+# DISCLAIMER
 
 This is the front end repository, the back end can be found here : https://github.com/Virgule09/technical_challenge_WD/tree/main/the-phone-cave-server
 
-------------
-DESCRIPTION
+# DESCRIPTION
 
 This is a tech challenge practice done in the context of the ironhack preparation for our job hunt.
 

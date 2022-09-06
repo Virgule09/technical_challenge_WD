@@ -16,6 +16,10 @@ I had to create both the REST API and the REACT API within these three hours.
 CSS was left for the end, the requirements were to have a responsive website that doesn't look "too bad". I decided to adopt a minimalistic layout.
 However I did not have time to implement a spinner to display while the data is loading.
 
+# INSTRUCTIONS
+No particular instructions, you will need to configure the port on your machine.
+Don't forget about the packages ;)
+
 # The Phone Cave (WD)
 
   At The Phone Cave we are looking for someone to help us turn our cave store into a home, and to do so we present you this challenge.

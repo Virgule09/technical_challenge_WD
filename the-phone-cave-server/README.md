@@ -1,5 +1,5 @@
 # DISCLAIMER
-This is the front end repository, the back end can be found here : https://github.com/Virgule09/technical_challenge_WD/tree/main/the-phone-cave-server
+This is the back end repository, the front end can be found here : https://github.com/Virgule09/technical_challenge_WD/tree/main/the-phone-cave-client
 
 # DESCRIPTION
 
